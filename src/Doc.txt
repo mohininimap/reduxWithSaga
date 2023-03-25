@@ -1,0 +1,9 @@
+npm install redux-saga
+npm install react-redux
+npm install redux
+----------
+Make All file action,reducer and store
+Make wrapper around react app
+Make redux store
+------------------
+redux se data react component madhe kas aananar=>useSelector hook

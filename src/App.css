@@ -13,6 +13,35 @@
   }
 }
 
+/* header style*/
+.header{
+  background-color:orange;
+  height: 100px;
+}
+
+.cart-div{
+  float:right;
+  margin:25px;
+  position: relative;
+}
+
+.cart-div img{
+  width:30px;
+}
+
+.cart-div span{
+  position:absolute;
+  z-index:5;
+  background-color: green;
+  height:20px;
+  width:20px;
+  border-radius: 50%;
+  color:'red'
+  
+}
+
+/* header style*/
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
